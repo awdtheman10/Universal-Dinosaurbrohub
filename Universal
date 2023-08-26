@@ -852,3 +852,7 @@ end)
         end,
      })
       
+
+
+local YoutubeTab = Window:CreateTab("Youtuber Credits", 4483362458) -- Title, Image
+local Section = YoutubeTab:CreateSection("No Youtubers YET.")
